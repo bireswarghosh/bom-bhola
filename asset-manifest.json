@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bom-bhola/static/css/main.776bb0c2.css",
+    "main.js": "/bom-bhola/static/js/main.ae820e06.js",
+    "static/media/moon.jpg": "/bom-bhola/static/media/moon.ec9d16757c33a83a4e2f.jpg",
+    "static/media/venus.jpg": "/bom-bhola/static/media/venus.c093898c8e79f21d8154.jpg",
+    "static/media/logo.png": "/bom-bhola/static/media/logo.dec7c078d36cde7214bc.png",
+    "static/media/space.jpg": "/bom-bhola/static/media/space.167f7b1f3402562b8e43.jpg",
+    "index.html": "/bom-bhola/index.html",
+    "main.776bb0c2.css.map": "/bom-bhola/static/css/main.776bb0c2.css.map",
+    "main.ae820e06.js.map": "/bom-bhola/static/js/main.ae820e06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.776bb0c2.css",
+    "static/js/main.ae820e06.js"
+  ]
+}
